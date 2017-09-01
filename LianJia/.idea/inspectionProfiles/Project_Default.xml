@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.6" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Desktop.django第一天.day1.test1.test1.urls.booktest" />
+          <option value="Desktop.django第一天.day1.test1.test1.urls.cart" />
+          <option value="Desktop.django第一天.day1.test1.booktest.views.booktest" />
+          <option value="Desktop.Django.django第二天.test2.booktest.urls.*" />
+          <option value="Desktop.Django.django第二天.test2.booktest.views.booketest" />
+          <option value="Desktop.Django.django第二天.test2.booktest.views.*" />
+          <option value="Desktop.Django.django第二天.test2.booktest.admin.*" />
+          <option value="Desktop.Django.django第四天.test4.booktest.urls.booktest" />
+          <option value="Desktop.Django.django第四天.test4.booktest.views.*" />
+          <option value="test5.booktest.usls.django" />
+          <option value="test5.booktest.usls.*" />
+          <option value="test5.booktest.views.django" />
+          <option value="test5.booktest.urls.booktest" />
+          <option value="test5.booktest.urls.*" />
+          <option value="test5.booktest.admin.booktest" />
+          <option value="test5.booktest.admin.booktest_AreaInfo" />
+          <option value="test07.booktest.views.*" />
+          <option value="liuxin001.liuxin001.urls.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
